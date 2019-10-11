@@ -1,6 +1,6 @@
 ---
 title: Navigation in time
-date: 2019-10-11T21:37:57.390Z
+date: 2018-07-30T21:37:57.390Z
 description: Options to navigate in time
 image: /images/uploads/bildschirmfoto-2019-07-20-um-20.05.35.png
 ---
